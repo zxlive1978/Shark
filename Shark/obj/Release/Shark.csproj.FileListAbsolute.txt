@@ -1,0 +1,239 @@
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Release\Shark.exe.config
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Release\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Release\Shark.pdb
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Release\SharpGL.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Release\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Release\Shark.exe.config
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.exe
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Release\Shark.exe
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Release\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Release\SharpGL.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\Shark.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\Shark.exe.config
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\SharpGL.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.noise_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.noise_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.summ.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.about.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.loops_clear_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.options.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\SharpGL.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.about.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.loops_clear_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.noise_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.noise_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.options.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\Shark.summ.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe.config
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.xml
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.xml
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\Interop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Interop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.ResolveComReference.cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.about.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.add_record_options_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.find.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.helphelp.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.loops_clear_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.setuping.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.summ.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.trial.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.pdb
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe.config
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.pdb
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.xml
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.xml
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\Interop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release\AxInterop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Interop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\AxInterop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.ResolveComReference.cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.about.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.add_record_options_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.find.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.helphelp.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.loops_clear_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_time.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.setuping.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.summ.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.trial.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.GenerateResource.Cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.exe
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csprojResolveAssemblyReference.cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csprojResolveAssemblyReference.cache
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe.config
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Interop.WMPLib.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\AxInterop.WMPLib.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.ResolveComReference.cache
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.exe
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.pdb
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.pdb
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.xml
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.xml
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\Interop.WMPLib.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\bin\Release\AxInterop.WMPLib.dll
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csprojResolveAssemblyReference.cache
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.about.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.add_record_options_deep.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.find.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.helphelp.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.loops_clear_deep.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_deep.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_time.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.setuping.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.summ.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.trial.resources
+C:\Users\user\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.SceneGraph.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\SharpGL.WinForms.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.SQLite.xml
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\IronPython.Wpf.xml
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.csproj.ResolveComReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.about.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Add_point_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.add_record_options_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.find.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.helphelp.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.loops_clear_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.noise_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.setuping.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.SharpGLForm.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.summ.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.trial.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Release\Shark.pdb
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.csprojAssemblyReference.cache
+D:\PetroServices\SHARK2019\Shark\obj\Release\Interop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\obj\Release\AxInterop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.csproj.ResolveComReference.cache
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.about.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.Add_point_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.Add_point_time.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.add_record_options_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.find.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.helphelp.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.loops_clear_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.noise_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.noise_time.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.Properties.Resources.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.setuping.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.SharpGLForm.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.summ.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.trial.resources
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.csproj.GenerateResource.cache
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.csproj.CoreCompileInputs.cache
+D:\PetroServices\SHARK2019\Shark\bin\Release\Shark.exe.config
+D:\PetroServices\SHARK2019\Shark\bin\Release\Shark.exe
+D:\PetroServices\SHARK2019\Shark\bin\Release\Shark.pdb
+D:\PetroServices\SHARK2019\Shark\bin\Release\SharpGL.dll
+D:\PetroServices\SHARK2019\Shark\bin\Release\SharpGL.SceneGraph.dll
+D:\PetroServices\SHARK2019\Shark\bin\Release\SharpGL.WinForms.dll
+D:\PetroServices\SHARK2019\Shark\bin\Release\SharpGL.xml
+D:\PetroServices\SHARK2019\Shark\bin\Release\SharpGL.SceneGraph.xml
+D:\PetroServices\SHARK2019\Shark\bin\Release\SharpGL.WinForms.xml
+D:\PetroServices\SHARK2019\Shark\bin\Release\Interop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\bin\Release\AxInterop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.csproj.CopyComplete
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.exe
+D:\PetroServices\SHARK2019\Shark\obj\Release\Shark.pdb

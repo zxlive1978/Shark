@@ -1,0 +1,291 @@
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_1\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.exe
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.pdb
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.csprojResolveAssemblyReference.cache
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\SERGE\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.csproj.GenerateResource.Cache
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Documents and Settings\s.sedyshev\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Documents and Settings\s.sedyshev\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Documents and Settings\s.sedyshev\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.about.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.loops_clear_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.noise_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.noise_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.options.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.summ.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.csprojResolveAssemblyReference.cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.about.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.loops_clear_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.noise_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.noise_time.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.options.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.summ.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\Shark\obj\Debug\Shark.csproj.GenerateResource.Cache
+C:\Users\Вероника\Desktop\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.about.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.loops_clear_deep.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.noise_deep.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.noise_time.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.options.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.summ.resources
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\Desktop\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\Desktop\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\Desktop\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\Desktop\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Desktop\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\Desktop\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.exe.config
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.exe
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.pdb
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csprojResolveAssemblyReference.cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.about.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.loops_clear_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.noise_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.noise_time.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.summ.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csproj.GenerateResource.Cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.exe
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csproj.ResolveComReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.about.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.add_record_options_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.helphelp.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.loops_clear_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.noise_deep.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.noise_time.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.summ.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.exe
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.pdb
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Interop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csproj.ResolveComReference.cache
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Interop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.add_record_options_deep.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.helphelp.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.trial.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.SQLite.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.Wpf.dll
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.SQLite.xml
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.Wpf.xml
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.setuping.resources
+C:\Documents and Settings\1\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.trial.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.setuping.resources
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.SQLite.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.Wpf.dll
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.SQLite.xml
+C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.Wpf.xml
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.SQLite.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.Wpf.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.SQLite.xml
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\IronPython.Wpf.xml
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\Interop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Interop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csproj.ResolveComReference.cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.about.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.add_record_options_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.helphelp.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.loops_clear_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.noise_deep.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.noise_time.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.setuping.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.summ.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.trial.resources
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.exe
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.pdb
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.csprojResolveAssemblyReference.cache
+C:\Users\Вероника\YandexDisk\Документы\Shark_2\Shark\obj\Debug\Shark.find.resources
+D:\PetroServices\SHARK2019\Shark\bin\Debug\Shark.exe.config
+D:\PetroServices\SHARK2019\Shark\bin\Debug\Shark.exe
+D:\PetroServices\SHARK2019\Shark\bin\Debug\Shark.pdb
+D:\PetroServices\SHARK2019\Shark\bin\Debug\SharpGL.dll
+D:\PetroServices\SHARK2019\Shark\bin\Debug\SharpGL.SceneGraph.dll
+D:\PetroServices\SHARK2019\Shark\bin\Debug\SharpGL.WinForms.dll
+D:\PetroServices\SHARK2019\Shark\bin\Debug\SharpGL.xml
+D:\PetroServices\SHARK2019\Shark\bin\Debug\SharpGL.SceneGraph.xml
+D:\PetroServices\SHARK2019\Shark\bin\Debug\SharpGL.WinForms.xml
+D:\PetroServices\SHARK2019\Shark\bin\Debug\Interop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\bin\Debug\AxInterop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.csprojAssemblyReference.cache
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Interop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\obj\Debug\AxInterop.WMPLib.dll
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.csproj.ResolveComReference.cache
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.about.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.Add_point_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.Add_point_time.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.add_record_options_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.find.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.helphelp.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.loops_clear_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.noise_deep.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.noise_time.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.Properties.Resources.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.setuping.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.SharpGLForm.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.summ.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.trial.resources
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.csproj.GenerateResource.cache
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.csproj.CoreCompileInputs.cache
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.csproj.CopyComplete
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.exe
+D:\PetroServices\SHARK2019\Shark\obj\Debug\Shark.pdb

@@ -1,0 +1,13 @@
+D:\Shark\Shark\Shark\bin\x64\Release\Shark.exe.config
+D:\Shark\Shark\Shark\bin\x64\Release\Shark.exe
+D:\Shark\Shark\Shark\bin\x64\Release\Shark.pdb
+D:\Shark\Shark\Shark\bin\x64\Release\SharpGL.dll
+D:\Shark\Shark\Shark\bin\x64\Release\SharpGL.SceneGraph.dll
+D:\Shark\Shark\Shark\bin\x64\Release\SharpGL.WinForms.dll
+D:\Shark\Shark\Shark\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Shark\Shark\Shark\obj\x64\Release\Shark.Properties.Resources.resources
+D:\Shark\Shark\Shark\obj\x64\Release\Shark.SharpGLForm.resources
+D:\Shark\Shark\Shark\obj\x64\Release\GenerateResource.read.1.tlog
+D:\Shark\Shark\Shark\obj\x64\Release\GenerateResource.write.1.tlog
+D:\Shark\Shark\Shark\obj\x64\Release\Shark.exe
+D:\Shark\Shark\Shark\obj\x64\Release\Shark.pdb

@@ -1,0 +1,17 @@
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\Debug\Shark.pdb

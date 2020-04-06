@@ -1,0 +1,92 @@
+D:\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+D:\Shark\Shark\Shark\bin\Debug\Shark.exe
+D:\Shark\Shark\Shark\bin\Debug\Shark.pdb
+D:\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+D:\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+D:\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+D:\Shark\Shark\Shark\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Shark\Shark\Shark\obj\x86\Debug\Shark.Properties.Resources.resources
+D:\Shark\Shark\Shark\obj\x86\Debug\Shark.SharpGLForm.resources
+D:\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Shark\Shark\Shark\obj\x86\Debug\Shark.exe
+D:\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb
+D:\Shark\Shark\Shark\bin\Debug\OpenTK.Compatibility.dll
+D:\Shark\Shark\Shark\bin\Debug\OpenTK.dll
+D:\Shark\Shark\Shark\bin\Debug\OpenTK.GLControl.dll
+D:\Shark\Shark\Shark\bin\Debug\OpenTK.xml
+D:\Shark\Shark\Shark\bin\Debug\OpenTK.Compatibility.xml
+D:\Shark\Shark\Shark\bin\Debug\OpenTK.GLControl.xml
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\Shark.exe
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\bin\Debug\Shark.exe
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\bin\Debug\Shark.pdb
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\Shark.Properties.Resources.resources
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\Shark.SharpGLForm.resources
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\-=D_I_S_T_R_I_B=-\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.exe
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Properties.Resources.resources
+d:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Properties.Resources.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.SharpGLForm.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.csproj.GenerateResource.Cache
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.exe
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.csprojResolveAssemblyReference.cache
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Properties.Resources.resources
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.SharpGLForm.resources
+C:\Users\hydra\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.csproj.GenerateResource.Cache
+D:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.csprojResolveAssemblyReference.cache
+D:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Settings.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Settings.resources
+D:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Add_point_deep.resources
+D:\-=D_I_S_T_R_I_B=-\!GOOGLE\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Add_point_time.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Add_point_deep.resources
+C:\Users\Вероника\Google Диск\Прочее\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Add_point_time.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe.config
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.exe
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.exe
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\Shark.pdb
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.SceneGraph.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\bin\Debug\SharpGL.WinForms.dll
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Add_point_deep.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Add_point_time.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Properties.Resources.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.Settings.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.SharpGLForm.resources
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\back\Мои документы\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Вероника\Google Диск\программирование\sharpgl\Shark\Shark\Shark\obj\x86\Debug\Shark.pdb

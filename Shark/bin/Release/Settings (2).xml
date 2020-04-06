@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <!--Часовой сдвиг-->
+    <timeshift_hourse>-5</timeshift_hourse>
+    <!--Рабочая директория-->
+    <work_path>C:\Users\SERGE\YandexDisk\Документы\Shark_2\Shark\bin\Release</work_path>
+    <!--Графика-->
+    <!--Толщина линий-->
+    <main_line_width>1.3</main_line_width>
+    <!--Качество отрисовки-->
+    <quality>1</quality>
+    <!--Вкл..выкл точки-->
+    <dots_on>0</dots_on>
+    <!--Вкл..выкл точки-->
+    <dots_width>1</dots_width>
+</Settings>
